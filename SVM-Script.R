@@ -16,10 +16,17 @@ model <- train_model(container, "SVM", kernel="linear", cost=1)
 trace("create_matrix",edit=T)
 
 ##Prediction 
+
+## Get predictionData 
+predictionRaw <- fromJSON('modifiedResults.json', simplifyVector = FALSE)
+predictionProcessed <- lapply(predictionRaw, function(x) x$school)
+
+#Format for DataTable 
 predictionData <- testResults
 predSize = length(predictionData)
 
-predMatrix <- create_matrix(predictionData, originalMatrix=dtMatrix)
+
+predMatrix <- create_mapretrix(predictionData, originalMatrix=dtMatrix)
 
 predictionContainer <- create_container(predMatrix, labels=rep(0,predSize), testSize=1:predSize, virgin=FALSE)
 
