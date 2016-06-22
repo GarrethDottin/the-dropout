@@ -1,17 +1,33 @@
-Text,isDropout,,,,,,,
- Jobs briefly attended Reed College in 1972 before dropping out,1,,,,,,,
-partly because revenues from Europe had dropped following the start of World War II in 1939,-1,,,,,,,
-"Zuckerberg dropped out of Harvard in his sophomore year to complete his project.[34] In January 2014, Zuckerberg recalled:",1,,,,,,,
-"his ranking has dropped to 184 on the service, behind Page and Brin",-1,,,,,,,
-drop out,1,,,,,,,
-Bachelor of Arts / ,-1,,,,,,,
-"Drop Out, Syracuse University",1,,,,,,,
-"Drop Out, Syracuse University",1,,,,,,,
-"LLM, University of Munich",-1,,,,,,,
-"Drop Out, High School",1,,,,,,,
-"Bachelor of Arts / Science, University of Leeds",-1,,,,,,,
-"Drop out bachelor of arts/Science, University of Leeds",1,,,,,,,
-"High School, ",1,,,,,,,
-"Bachelor of Arts / Economics, Monash University",-1,,,,,,,
-"Doctorate, Monash University",-1,,,,,,,
-"Bachelor of Science in Engineering, University of Melbourne",-1,,,,,,,
+Text,isDropout
+ Jobs briefly attended Reed College in 1972 before dropping out,1
+"Zuckerberg dropped out of Harvard in his sophomore year to complete his project.[34] In January 2014, Zuckerberg recalled:",1
+drop out,1
+Bachelor of Arts / ,-1
+"Drop Out, Syracuse University",1
+"Diploma, High School; Bachelor of Arts / Science, University of Denver",-1
+"LLM, University of Munich",-1
+"Drop Out, High School",1
+"Bachelor of Arts / Science, University of Leeds",-1
+"Drop out bachelor of arts/Science, University of Leeds",1
+"Bachelor of Arts / Economics, Monash University",-1
+"Doctorate, Monash University",-2
+"Bachelor of Arts / Science, University of Leeds",-1
+"Bachelor of Science in Engineering, University of Melbourne",-1
+"Bachelor of Arts / Economics, Monash University",-1
+"Bachelor of Science in Engineering, University of Melbourne",-1
+"Bachelor of Arts / Science, University of Cape Town",-1
+"Bachelor of Arts / Science, Monash University; LLB, Monash University",-2
+"Doctorate, University of ",-2
+"Bachelor of Arts/Science, Doctorate",-2
+Business School,-2
+Master of Business,-2
+"Master of Science, ",-2
+"Master of Business Administration, Harvard Business School; Bachelor of Arts / Science,  University of Sydney; Master of Science, University of New South Wales",-2
+"Bachelor of Arts / Science, University of New South Wales",-1
+"Bachelor of Arts / Science, University of Western Ontario",-1
+RMIT University,-1
+"Bachelor of Arts / Science, University of New South Wales",-1
+"Bachelor of Arts/ Science, University of ",-1
+"Bachelor of Arts / Science, Master of Science,  Massachusetts Institute of Technology",-2
+Master of Business Administration,-2
+"Master of Science, Princenton",-2

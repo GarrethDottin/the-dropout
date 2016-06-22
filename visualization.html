@@ -24,38 +24,57 @@ body {
 .tooltip {
   position: absolute;
   width: 200px;
-  height: 28px;
   pointer-events: none;
+  width: 120px;
+  background-color: #404040;
+  padding: 2px;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 2px;
+  position: absolute;
+  z-index: 1;
 }
 </style>
 <body>
 <script src="https://d3js.org/d3.v3.min.js"></script>
 
 <script>
-var margin = {top: 20, right: 20, bottom: 30, left: 40},
+var margin = {top: 60, right: 20, bottom: 30, left: 80},
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
 
-/* 
- * value accessor - returns the value to encode for a given data object.
- * scale - maps value to a visual display encoding, such as a pixel position.
- * map function - maps from data value to display value
- * axis - sets up axis
- */ 
 
-// setup x 
+
+// setup x
+var adjustedDropout = 700; 
+var adjustedGradute = 180;
+var adjustedMastersDegree = -250; 
+var randomSpread = 120; 
 var xValue = function(d) {  
     return d["group_category"];}, // data -> value
-    xScale = d3.scale.linear().range([0, width]), // value -> display
-    xMap = function(d) { return xScale(xValue(d));}, // data -> display
-    xAxis = d3.svg.axis().scale(xScale).orient("bottom");
+    xScale = d3.scale.ordinal(), // value -> display
+    xMap = function(d) { 
+      // Call a function that 
+      if (d.group_category == 1) { 
+          return xScale(xValue(d)) - adjustedDropout + Math.floor(Math.random() * randomSpread); 
+      }
+      if (d.group_category == -1) { 
+          return xScale(xValue(d)) + adjustedGradute + Math.floor(Math.random() * randomSpread);
+      }
+      if(d.group_category == -2) { 
+          return xScale(xValue(d)) + adjustedMastersDegree + Math.floor(Math.random() * randomSpread);
+      }
+
+}, // data -> display
+xAxis = d3.svg.axis().scale(xScale).orient("bottom");
 
 // setup y
 var yValue = function(d) { return d["dropout_likelihood"];}, // data -> value
     yScale = d3.scale.linear().range([height, 0]), // value -> display
     yMap = function(d) { 
     return yScale(yValue(d));}, // data -> display
-    yAxis = d3.svg.axis().scale(yScale).orient("left");
+    yAxis = d3.svg.axis().scale(yScale).orient("left").ticks(20);
 
 // setup fill color
 var cValue = function(d) { return d.Manufacturer;},
@@ -64,7 +83,7 @@ var cValue = function(d) { return d.Manufacturer;},
 // add the graph canvas to the body of the webpage
 var svg = d3.select("body").append("svg")
     .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
+    .attr("height", height + margin.top + margin.bottom + 30)
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
@@ -74,9 +93,8 @@ var tooltip = d3.select("body").append("div")
     .style("opacity", 0);
 
 // load data
-d3.csv("results", function(error, data) {
+d3.csv("FormattedResults", function(error, data) {
   // change string (from CSV) into number format
-  console.log(data.length)
   data.forEach(function(d) {
     d.group_category = +d.SVM_LABEL;
     d.dropout_likelihood = +d.SVM_PROB;
@@ -87,56 +105,84 @@ d3.csv("results", function(error, data) {
   });
 
   // don't want dots overlapping axis, so add in buffer to data domain
-  xScale.domain([d3.min(data, xValue)-1, d3.max(data, xValue)+1]);
-  yScale.domain([d3.min(data, yValue)-1, d3.max(data, yValue)+1]);
+  xScale.domain(["Dropout", "College Graduate", "Masters Degree"]).range([100,width -100]);
+
+
 
   // x-axis
   svg.append("g")
+      .attr("id", "testing")
       .attr("class", "x axis")
-      .attr("transform", "translate(0," + height + ")")
+      .attr("transform", "translate(-99," + height + ")")
       .call(xAxis)
     .append("text")
       .attr("class", "label")
-      .attr("x", width)
-      .attr("y", -6)
+      .attr("x", (width/2) + 50)  
+      .attr("y", 60)
       .style("text-anchor", "end")
-      .text("Category");
+      .text("Level of Education")
+  svg    
+    .append("text")
+      .attr("class", "label")
+      .attr("x", width/2)
+      .attr("y", -20)
+      .style("text-anchor", "end")
+      .text("Education Level of Billionaires")
+  svg    
+    .append("text")
+      .attr("class", "label")
+      .attr("x", width/1.4)
+      .attr("y", 427)
+      .style("text-anchor", "end")
+      .text("Masters Degree")
 
+  d3.select("g") 
+    .append("text")
+      .attr("class", "label")
+      .attr("x", -125)
+      .attr("y", -50)
+      .attr("transform", "rotate(-90)")
+      .style("text-anchor", "end")
+      .text("Likelihood of Education")
+
+
+
+
+  d3.select('#testing .tick text')
+    .attr("x", 125);
+
+  d3.select('.tick:nth-child(2) text')
+    .attr("x", -300)
   // y-axis
   svg.append("g")
       .attr("class", "y axis")
       .call(yAxis)
-    // .append("text")
-    //   .attr("class", "label")
-    //   .attr("transform", "rotate(-90)")
-    //   .attr("y", 6)
-    //   .attr("dy", ".71em")
-    //   .style("text-anchor", "end")
-    //   .text("Likelihood of Dropout");
 
   // draw dots
   svg.selectAll(".dot")
       .data(data)
     .enter().append("circle")
       .attr("class", "dot")
-      .attr("r", 3.5)
-      .attr("cx", xMap)
+      .attr("r", 5)
+      .attr("cx", function(data) { 
+        return xMap(data);
+        })
       .attr("cy", yMap)
       .style("fill", function(d) { return color(cValue(d));}) 
-      // .on("mouseover", function(d) {
-      //     tooltip.transition()
-      //          .duration(200)
-      //          .style("opacity", .9);
-      //     tooltip.html(d["Cereal Name"] + "<br/> (" + xValue(d) 
-	     //    + ", " + yValue(d) + ")")
-      //          .style("left", (d3.event.pageX + 5) + "px")
-      //          .style("top", (d3.event.pageY - 28) + "px");
-      // })
-      // .on("mouseout", function(d) {
-      //     tooltip.transition()
-      //          .duration(500)
-      //          .style("opacity", 0);
-      // });
+      .on("mouseover", function(d) {
+          tooltip.transition()
+               .duration(200)
+               .style("opacity", 1);
+          tooltip.html(d["Names"])
+               .style("left", (d3.event.pageX + 5) + "px")
+               .style("top", (d3.event.pageY - 28) + "px")
+              .attr("z-index", 100000)
+      })
+      .on("mouseout", function(d) {
+          tooltip.transition()
+               .duration(500)
+               .style("opacity", 0);
+      });
 
   // draw legend
   // var legend = svg.selectAll(".legend")

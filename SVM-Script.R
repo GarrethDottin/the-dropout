@@ -1,4 +1,4 @@
-trainingData <- read.csv("training set.csv", sep = ",", header = TRUE)
+trainingData <- read.csv("TrainingSet.csv", sep = ",", header = TRUE)
 
 trainingData$X <- NULL
 trainingData$X.1 <- NULL 
@@ -8,6 +8,7 @@ trainingData$X.4 <- NULL
 trainingData$X.5 <- NULL 
 trainingData$X.6 <- NULL
 trainingDataLength <- length(trainingData)
+dtMatrix <- create_matrix(trainingData["Text"])
 container <- create_container(dtMatrix, trainingData$isDropout, trainSize=1:trainingDataLength, virgin=FALSE)
 
 model <- train_model(container, "SVM", kernel="linear", cost=1)
@@ -21,12 +22,12 @@ trace("create_matrix",edit=T)
 predictionRaw <- fromJSON('modifiedResults.json', simplifyVector = FALSE)
 predictionProcessed <- lapply(predictionRaw, function(x) x$school)
 
-#Format for DataTable 
-predictionData <- testResults
+#Format for DataTable
+predictionData <- predictionProcessed
 predSize = length(predictionData)
 
 
-predMatrix <- create_mapretrix(predictionData, originalMatrix=dtMatrix)
+predMatrix <- create_matrix(predictionData, originalMatrix=dtMatrix)
 
 predictionContainer <- create_container(predMatrix, labels=rep(0,predSize), testSize=1:predSize, virgin=FALSE)
 

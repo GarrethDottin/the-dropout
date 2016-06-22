@@ -1,5 +1,4 @@
 [
-
   {
     "title": "#1 Bill Gates",
     "school": "Drop Out, Harvard University"
@@ -99,7 +98,7 @@
     "title": "#20 Li Ka-shing",
     "school": "Drop Out, High School"
   }
-,,
+,
   {
     "title": "#22 David Thomson & family",
     "school": "Master of Arts, University of Cambridge"
@@ -129,7 +128,7 @@
     "title": "#26 Jacqueline Mars",
     "school": "Bachelor of Arts / Science, Bryn Mawr College"
   }
-,,
+,
   {
     "title": "#29 Phil Knight",
     "school": "Bachelor of Arts / Science, University of Oregon; Master of Business Administration, Stanford Graduate School of Business"
@@ -184,7 +183,7 @@
     "title": "#39 Susanne Klatten",
     "school": "Master of Business Administration, International Institute for Management and Development"
   }
-,,
+,
   {
     "title": "#41 Joseph Safra",
     "school": "4"
@@ -539,7 +538,7 @@
     "title": "#115 Andrew Beal",
     "school": "Drop Out, Baylor University"
   }
-,,
+,
   {
     "title": "#117 John Menard, Jr.",
     "school": "Bachelor of Arts / Science, University of Wisconsin, Eau Claire"
@@ -564,7 +563,7 @@
     "title": "#121 Andrey Melnichenko",
     "school": "Bachelor of Arts / Science, Plekhanov Russian Academy"
   }
-,,
+,
   {
     "title": "#123 Takemitsu Takizaki",
     "school": "Married"
@@ -599,7 +598,7 @@
     "title": "#129 John Paulson",
     "school": "Bachelor of Arts / Science, New York University; Master of Business Administration, Harvard Business School"
   }
-,,
+,
   {
     "title": "#131 Cyrus Poonawalla",
     "school": "Bachelor of Arts / Science, Pune University; Doctorate, Pune University"
@@ -789,7 +788,7 @@
     "title": "#169 Dmitry Rybolovlev",
     "school": "Medical Doctor, Perm Medical Institute"
   }
-,,
+,
   {
     "title": "#171 Uday Kotak",
     "school": "Bachelor of Arts / Science, Bombay University; Master of Business Administration, University of Bombay"
@@ -819,4 +818,1764 @@
     "title": "#176 Pierre Omidyar",
     "school": "Bachelor of Arts / Science, Tufts University"
   }
-,]
+,
+  {
+    "title": "#163 Takemitsu Takizaki",
+    "school": "Married"
+  }
+,
+  {
+    "title": "#163 Wang Wenyin",
+    "school": "China"
+  }
+,
+  {
+    "title": "#167 Micky Arison",
+    "school": "Drop Out, University of Miami"
+  }
+,
+  {
+    "title": "#167 George Kaiser",
+    "school": "Bachelor of Arts / Science, Harvard University; Master of Business Administration, Harvard University"
+  }
+,
+  {
+    "title": "#167 Les Wexner & family",
+    "school": "Bachelor of Arts / Science, Ohio State University"
+  }
+,
+  {
+    "title": "#170 Alberto Bailleres Gonzalez & family",
+    "school": "4"
+  }
+,
+  {
+    "title": "#171 Dhanin Chearavanont",
+    "school": "5"
+  }
+,
+  {
+    "title": "#171 Margarita Louis-Dreyfus & family",
+    "school": "3"
+  }
+,
+  {
+    "title": "#173 Alexei Kuzmichev",
+    "school": "Bachelor of Arts / Science, Moscow Institute of Steel and Alloys"
+  }
+,
+  {
+    "title": "#174 Nicky Oppenheimer & family",
+    "school": "Bachelor of Arts / Science, Oxford U Christ Church; Master of Arts, Oxford U Christ Church"
+  }
+,
+  {
+    "title": "#174 Peter Woo",
+    "school": "Master of Business Administration, Columbia Business School"
+  }
+,
+  {
+    "title": "#176 Jean-Claude Decaux & family",
+    "school": "3"
+  }
+,
+  {
+    "title": "#176 David Geffen",
+    "school": "Drop Out, The University of Texas at Austin"
+  }
+,
+  {
+    "title": "#178 Graeme Hart",
+    "school": "2"
+  }
+,
+  {
+    "title": "#178 Sandra Ortega Mera",
+    "school": "3"
+  }
+,
+  {
+    "title": "#184 John Grayken",
+    "school": "Bachelor of Arts / Science, University of Pennsylvania; Master of Business Administration, Harvard Business School"
+  }
+,
+  {
+    "title": "#184 Uday Kotak",
+    "school": "Bachelor of Arts / Science, Bombay University; Master of Business Administration, University of Bombay"
+  }
+,
+  {
+    "title": "#184 Liu Qiangdong",
+    "school": "Bachelor of Arts / Science, Renmin University of China"
+  }
+,
+  {
+    "title": "#184 John Malone",
+    "school": "Bachelor of Arts / Science, Yale University; Doctorate, Johns Hopkins University; Master of Science, Johns Hopkins University"
+  }
+,
+  {
+    "title": "#188 Silvio Berlusconi & family",
+    "school": "Doctor of Jurisprudence, University of Milan"
+  }
+,
+  {
+    "title": "#188 Garrett Camp",
+    "school": "Master of Science, University of Calgary"
+  }
+,
+  {
+    "title": "#188 Curt Engelhorn & family",
+    "school": "Bachelor of Arts / Science, The University of Texas at Austin"
+  }
+,
+  {
+    "title": "#188 Travis Kalanick",
+    "school": "Drop Out, University of California, Los Angeles"
+  }
+,
+  {
+    "title": "#188 Walter Kwok",
+    "school": "Master of Science, University of London"
+  }
+,
+  {
+    "title": "#188 Eduardo Saverin",
+    "school": "Bachelor of Arts / Science, Harvard University"
+  }
+,
+  {
+    "title": "#188 Zong Qinghou",
+    "school": "1"
+  }
+,
+  {
+    "title": "#196 Giorgio Armani",
+    "school": "Drop Out, University of Piacenza"
+  }
+,
+  {
+    "title": "#196 Kumar Birla",
+    "school": "Bachelor of Arts / Science, University of Bombay; Master of Business Administration, London Business School"
+  }
+,
+  {
+    "title": "#196 Wolfgang Marguerre",
+    "school": "3"
+  }
+,
+  {
+    "title": "#196 Hansjoerg Wyss",
+    "school": "Master of Business Administration, Harvard University; Master of Science, Swiss Federal Institute of Technology"
+  }
+,
+  {
+    "title": "#201 Jay Y. Lee",
+    "school": "Bachelor of Arts / Science, Seoul National University; Master of Business Administration, Keio University; Doctorate, Harvard Business School"
+  }
+,
+  {
+    "title": "#201 Gordon Moore",
+    "school": "Bachelor of Arts / Science, University of California Berkeley; Doctorate, California Institute of Technology"
+  }
+,
+  {
+    "title": "#201 Frederik Paulsen",
+    "school": "3"
+  }
+,
+  {
+    "title": "#201 Tsai Eng-Meng",
+    "school": "Taiwan"
+  }
+,
+  {
+    "title": "#205 Patrick Drahi",
+    "school": "4"
+  }
+,
+  {
+    "title": "#205 Philip & Cristina Green",
+    "school": "2"
+  }
+,
+  {
+    "title": "#205 Mikhail Gutseriev",
+    "school": "Bachelor of Arts / Science, Kazakh Technological Institute"
+  }
+,
+  {
+    "title": "#205 Shahid Khan",
+    "school": "Bachelor of Arts / Science, University of Illinois, Urbana-Champaign"
+  }
+,
+  {
+    "title": "#205 Richard LeFrak & family",
+    "school": "Bachelor of Arts / Science, Amherst College; Doctor of Jurisprudence, Columbia University"
+  }
+,
+  {
+    "title": "#205 Tom & Judy Love",
+    "school": "4"
+  }
+,
+  {
+    "title": "#205 Pan Sutong",
+    "school": "1"
+  }
+,
+  {
+    "title": "#205 Zhang Zhidong",
+    "school": "Bachelor of Arts / Science, Shenzhen University; Master of Arts, South China University of Technology"
+  }
+,
+  {
+    "title": "#205 Zhou Qunfei",
+    "school": "Married"
+  }
+,
+  {
+    "title": "#214 Michael Kadoorie",
+    "school": "3"
+  }
+,
+  {
+    "title": "#214 Jorn Rausing",
+    "school": "Sweden"
+  }
+,
+  {
+    "title": "#214 John A. Sobrato & family",
+    "school": "Bachelor of Arts / Science, Santa Clara University"
+  }
+,
+  {
+    "title": "#214 Dennis Washington",
+    "school": "Diploma, High School"
+  }
+,
+  {
+    "title": "#214 Christoffel Wiese",
+    "school": "Bachelor of Arts / Science, University of Stellenbosch; LLB, University of Stellenbosch"
+  }
+,
+  {
+    "title": "#219 Francis Choi",
+    "school": "3"
+  }
+,
+  {
+    "title": "#219 Sergei Galitsky",
+    "school": "Bachelor of Arts / Science, Kuban State University"
+  }
+,
+  {
+    "title": "#219 Antonia Johnson",
+    "school": "Master of Arts, University of Stockholm"
+  }
+,
+  {
+    "title": "#219 Lu Guanqiu",
+    "school": "Doctorate, Hong Kong Polytechnic University"
+  }
+,
+  {
+    "title": "#219 Sunil Mittal & family",
+    "school": "Bachelor of Arts / Science, Punjab University"
+  }
+,
+  {
+    "title": "#219 Denis O'Brien",
+    "school": "Master of Business Administration, Carroll School of Management"
+  }
+,
+  {
+    "title": "#219 Melker Schorling",
+    "school": "Master of Business Administration, Gothenburg University"
+  }
+,
+  {
+    "title": "#228 Heinrich Deichmann & family",
+    "school": "2"
+  }
+,
+  {
+    "title": "#228 Terry Gou",
+    "school": "3"
+  }
+,
+  {
+    "title": "#228 David Green",
+    "school": "Diploma, High School"
+  }
+,
+  {
+    "title": "#228 Hiroshi Mikitani",
+    "school": "Master of Business Administration, Harvard University"
+  }
+,
+  {
+    "title": "#228 Stef Wertheimer & family",
+    "school": "4"
+  }
+,
+  {
+    "title": "#233 Maria Asuncion Aramburuzabala & family",
+    "school": "Bachelor of Arts / Science, Instituto Tecnológico Autónomo de México"
+  }
+,
+  {
+    "title": "#233 Desh Bandhu Gupta",
+    "school": "Master of Science, Bombay University"
+  }
+,
+  {
+    "title": "#233 Ralph Lauren",
+    "school": "Diploma, High School"
+  }
+,
+  {
+    "title": "#233 Ted Lerner",
+    "school": "LLB, George Washington University; Associate in Arts / Science, George Washington University"
+  }
+,
+  {
+    "title": "#233 James Ratcliffe",
+    "school": "Married"
+  }
+,
+  {
+    "title": "#233 Finn Rausing",
+    "school": "Sweden"
+  }
+,
+  {
+    "title": "#233 Kirsten Rausing",
+    "school": "Sweden"
+  }
+,
+  {
+    "title": "#240 Bruce Halle",
+    "school": "Bachelor of Arts / Science, Eastern Michigan University"
+  }
+,
+  {
+    "title": "#240 James Irving",
+    "school": "4"
+  }
+,
+  {
+    "title": "#240 Jason Jiang",
+    "school": "Bachelor of Arts / Science, Huadong Normal University; Bachelor of Arts / Science, Huadong Normal University"
+  }
+,
+  {
+    "title": "#240 Richard Kinder",
+    "school": "Bachelor of Arts / Science, University of Missouri; Doctor of Jurisprudence, University of Missouri"
+  }
+,
+  {
+    "title": "#240 Juan Roig",
+    "school": "4"
+  }
+,
+  {
+    "title": "#240 Charles Schwab",
+    "school": "Bachelor of Arts / Science, Stanford University; Master of Business Administration, Stanford Graduate School of Business"
+  }
+,
+  {
+    "title": "#240 Aloys Wobben",
+    "school": "Bachelor of Arts / Science, U of Oldenburg"
+  }
+,
+  {
+    "title": "#248 Vincent Bollore",
+    "school": "LLB, Universite Paris X Nanterre"
+  }
+,
+  {
+    "title": "#248 Guenther Fielmann & family",
+    "school": "2"
+  }
+,
+  {
+    "title": "#248 Ray Lee Hunt",
+    "school": "Bachelor of Arts / Science, Southern Methodist University"
+  }
+,
+  {
+    "title": "#248 Bruce Kovner",
+    "school": "Bachelor of Arts / Science, Harvard University"
+  }
+,
+  {
+    "title": "#248 Law Kar Po",
+    "school": "3"
+  }
+,
+  {
+    "title": "#248 Joe Lewis",
+    "school": "2"
+  }
+,
+  {
+    "title": "#248 Quek Leng Chan",
+    "school": "3"
+  }
+,
+  {
+    "title": "#248 Johann Rupert & family",
+    "school": "3"
+  }
+,
+  {
+    "title": "#248 Andrei Skoch",
+    "school": "State Central Institute of Physical Culture"
+  }
+,
+  {
+    "title": "#248 Jack Taylor & family",
+    "school": "Drop Out, Washington University"
+  }
+,
+  {
+    "title": "#258 Chan Laiwa & family",
+    "school": "3"
+  }
+,
+  {
+    "title": "#258 Anders Holch Povlsen",
+    "school": "4"
+  }
+,
+  {
+    "title": "#258 Trevor Rees-Jones",
+    "school": "Bachelor of Arts / Science, Dartmouth College; Doctor of Jurisprudence, Southern Methodist University"
+  }
+,
+  {
+    "title": "#258 Christy Walton & family",
+    "school": "1"
+  }
+,
+  {
+    "title": "#262 Vivien Chen",
+    "school": "3"
+  }
+,
+  {
+    "title": "#262 Harold Hamm & family",
+    "school": "Diploma, High School"
+  }
+,
+  {
+    "title": "#262 Diane Hendricks",
+    "school": "Diploma, High School"
+  }
+,
+  {
+    "title": "#262 Liu Yongxing",
+    "school": "1"
+  }
+,
+  {
+    "title": "#262 Frank Lowy",
+    "school": "3"
+  }
+,
+  {
+    "title": "#262 Ludwig Merckle",
+    "school": "2"
+  }
+,
+  {
+    "title": "#262 Dan Olsson",
+    "school": "Married"
+  }
+,
+  {
+    "title": "#270 Majid Al Futtaim & family",
+    "school": "Married"
+  }
+,
+  {
+    "title": "#270 Charles Dolan & family",
+    "school": "Drop Out, John Carroll University"
+  }
+,
+  {
+    "title": "#270 Israel Englander",
+    "school": "Bachelor of Arts / Science, New York University"
+  }
+,
+  {
+    "title": "#270 Goh Cheng Liang",
+    "school": "1"
+  }
+,
+  {
+    "title": "#270 John Gokongwei, Jr.",
+    "school": "6"
+  }
+,
+  {
+    "title": "#270 Guo Guangchang",
+    "school": "Bachelor of Arts / Science, Fudan University; Master of Business Administration, Fudan University"
+  }
+,
+  {
+    "title": "#270 Jerry Jones",
+    "school": "Bachelor of Arts / Science, University of Arkansas"
+  }
+,
+  {
+    "title": "#270 Kwee family",
+    "school": "Bachelor of Arts / Science, Philadelphia University"
+  }
+,
+  {
+    "title": "#270 Willi & Isolde Liebherr & family",
+    "school": "Switzerland"
+  }
+,
+  {
+    "title": "#270 Lin Yu-lin",
+    "school": "7"
+  }
+,
+  {
+    "title": "#270 Arnon Milchan",
+    "school": "4"
+  }
+,
+  {
+    "title": "#270 Shashi & Ravi Ruia",
+    "school": "India"
+  }
+,
+  {
+    "title": "#270 David Shaw",
+    "school": "Bachelor of Arts / Science, University of California, San Diego; Doctorate, Stanford University"
+  }
+,
+  {
+    "title": "#270 Yang Huiyan",
+    "school": "Bachelor of Arts / Science, Ohio State University"
+  }
+,
+  {
+    "title": "#286 Abdulla bin Ahmad Al Ghurair & family",
+    "school": "United Arab Emirates"
+  }
+,
+  {
+    "title": "#286 David & Frederick Barclay",
+    "school": "United Kingdom"
+  }
+,
+  {
+    "title": "#286 Richard Branson",
+    "school": "Drop Out, High School"
+  }
+,
+  {
+    "title": "#286 Jim Davis & family",
+    "school": "Bachelor of Arts / Science, Middlebury College"
+  }
+,
+  {
+    "title": "#286 Albert Frere",
+    "school": "Drop Out, High School"
+  }
+,
+  {
+    "title": "#286 Daniel Gilbert",
+    "school": "Bachelor of Arts / Science, Michigan State University; LLB, Wayne State University"
+  }
+,
+  {
+    "title": "#286 Akira Mori & family",
+    "school": "3"
+  }
+,
+  {
+    "title": "#286 Robert Rowling",
+    "school": "Bachelor of Arts / Science, The University of Texas at Austin; Doctor of Jurisprudence, Southern Methodist University"
+  }
+,
+  {
+    "title": "#286 Alejandro Santo Domingo",
+    "school": "Bachelor of Arts / Science, Harvard University"
+  }
+,
+  {
+    "title": "#286 Andres Santo Domingo",
+    "school": "Bachelor of Arts / Science, Brown University"
+  }
+,
+  {
+    "title": "#286 Bernard (Barry) Sherman",
+    "school": "Bachelor of Science in Engineering, University of Toronto; Doctorate, Massachusetts Institute of Technology; Master of Science, Massachusetts Institute of Technology"
+  }
+,
+  {
+    "title": "#286 Chairul Tanjung",
+    "school": "Medical Doctor, University of Indonesia"
+  }
+,
+  {
+    "title": "#298 Carl Cook",
+    "school": "Bachelor of Arts / Science, Purdue University; Master of Business Administration, Tippie School of Management"
+  }
+,
+  {
+    "title": "#298 Michael & Marian Ilitch & family",
+    "school": "Diploma, High School"
+  }
+,
+  {
+    "title": "#298 Bidzina Ivanishvili",
+    "school": "4"
+  }
+,
+  {
+    "title": "#298 Robert Kraft",
+    "school": "Bachelor of Arts / Science, Columbia University; Master of Business Administration, Harvard Business School"
+  }
+,
+  {
+    "title": "#298 Lu Zhiqiang",
+    "school": "Master of Arts, Fudan University"
+  }
+,
+  {
+    "title": "#298 Michael Stoschek & family",
+    "school": "2"
+  }
+,
+  {
+    "title": "#298 Sam Zell",
+    "school": "Bachelor of Arts / Science, University of Michigan; Doctor of Jurisprudence, University of Michigan"
+  }
+,
+  {
+    "title": "#298 Daniel Ziff",
+    "school": "Bachelor of Arts / Science, Columbia University"
+  }
+,
+  {
+    "title": "#298 Dirk Ziff",
+    "school": "Bachelor of Arts / Science, Columbia University; Master of Business Administration, Harvard University"
+  }
+,
+  {
+    "title": "#298 Robert Ziff",
+    "school": "Bachelor of Arts / Science, Harvard University; Doctor of Jurisprudence, Cornell University"
+  }
+,
+  {
+    "title": "#308 Richard DeVos & family",
+    "school": "Bachelor of Arts / Science, Calvin College"
+  }
+,
+  {
+    "title": "#308 Gustaf Douglas",
+    "school": "Master of Business Administration, Harvard University"
+  }
+,
+  {
+    "title": "#308 Arthur Irving",
+    "school": "5"
+  }
+,
+  {
+    "title": "#308 Jia Yueting",
+    "school": "Married"
+  }
+,
+  {
+    "title": "#308 Paul Tudor Jones, II.",
+    "school": "Bachelor of Arts / Science, University of Virginia"
+  }
+,
+  {
+    "title": "#308 Whitney MacMillan",
+    "school": "Bachelor of Arts / Science, Yale University"
+  }
+,
+  {
+    "title": "#308 Sun Guangxin",
+    "school": "Master of Arts, Chinese Academy of Social Sciences; EMBA, Tianjin University"
+  }
+,
+  {
+    "title": "#308 Teh Hong Piow",
+    "school": "4"
+  }
+,
+  {
+    "title": "#308 Hans Peter Wild",
+    "school": "2"
+  }
+,
+  {
+    "title": "#317 Pyotr Aven",
+    "school": "Ph.D, Moscow State University"
+  }
+,
+  {
+    "title": "#317 Laurence Graff & family",
+    "school": "5"
+  }
+,
+  {
+    "title": "#317 Charles Johnson",
+    "school": "Bachelor of Arts / Science, Yale University"
+  }
+,
+  {
+    "title": "#317 Lee Shin Cheng",
+    "school": "Doctorate, Universiti Putra"
+  }
+,
+  {
+    "title": "#317 Richard Li",
+    "school": "Drop Out, Stanford University"
+  }
+,
+  {
+    "title": "#317 Bruno Schroder & family",
+    "school": "Master of Science, Oxford University; Master of Business Administration, Harvard University"
+  }
+,
+  {
+    "title": "#324 Dona Bertarelli",
+    "school": "Switzerland"
+  }
+,
+  {
+    "title": "#324 Leon Black",
+    "school": "Bachelor of Arts / Science, Dartmouth College; Master of Business Administration, Harvard University"
+  }
+,
+  {
+    "title": "#324 Carlos and Alejandro Bulgheroni",
+    "school": "Argentina"
+  }
+,
+  {
+    "title": "#324 Clive Calder",
+    "school": "2"
+  }
+,
+  {
+    "title": "#324 Ann Walton Kroenke",
+    "school": "Registered Nurse, Lincoln University"
+  }
+,
+  {
+    "title": "#324 George Lucas",
+    "school": "Bachelor of Arts / Science, University of Southern California"
+  }
+,
+  {
+    "title": "#324 Theo Mueller",
+    "school": "9"
+  }
+,
+  {
+    "title": "#324 Jim Pattison",
+    "school": "3"
+  }
+,
+  {
+    "title": "#324 Sergei Popov",
+    "school": "Bachelor of Arts / Science, Ural State Technical University"
+  }
+,
+  {
+    "title": "#324 Sumner Redstone",
+    "school": "Bachelor of Arts / Science, Harvard University; Doctor of Jurisprudence, Harvard University"
+  }
+,
+  {
+    "title": "#324 Maria-Elisabeth Schaeffler",
+    "school": "Married"
+  }
+,
+  {
+    "title": "#324 David Sun",
+    "school": "Bachelor of Arts / Science, Tatung University"
+  }
+,
+  {
+    "title": "#324 Donald Trump",
+    "school": "Bachelor of Arts / Science, University of Pennsylvania"
+  }
+,
+  {
+    "title": "#324 John Tu",
+    "school": "Bachelor of Arts / Science, Technische Universität Darmstadt"
+  }
+,
+  {
+    "title": "#338 Brian Acton",
+    "school": "1"
+  }
+,
+  {
+    "title": "#338 Pierre Bellon & family",
+    "school": "4"
+  }
+,
+  {
+    "title": "#338 Stanley Druckenmiller",
+    "school": "Bachelor of Arts / Science, Bowdoin College"
+  }
+,
+  {
+    "title": "#338 David Duffield",
+    "school": "Bachelor of Arts / Science, Cornell University; Master of Business Administration, Samuel Curtis Johnson Graduate School of Management"
+  }
+,
+  {
+    "title": "#338 Micky Jagtiani",
+    "school": "3"
+  }
+,
+  {
+    "title": "#338 Emanuele (Lino) Saputo",
+    "school": "Diploma, High School"
+  }
+,
+  {
+    "title": "#338 Wang Chuanfu",
+    "school": "Bachelor of Arts / Science, Central South Industrial University of Technology; Master of Science, Beijing Non-Ferrous Research Institute"
+  }
+,
+  {
+    "title": "#351 Bernard Broermann",
+    "school": "Master of Business Administration, Harvard University"
+  }
+,
+  {
+    "title": "#351 Chung Mong-Koo",
+    "school": "Bachelor of Arts / Science, Hanyang University"
+  }
+,
+  {
+    "title": "#351 Joao Roberto Marinho",
+    "school": "3"
+  }
+,
+  {
+    "title": "#351 Jose Roberto Marinho",
+    "school": "5"
+  }
+,
+  {
+    "title": "#351 Roberto Irineu Marinho",
+    "school": "4"
+  }
+,
+  {
+    "title": "#351 Ricardo Salinas Pliego & family",
+    "school": "Bachelor of Arts / Science, Tecnológico de Monterrey; Master of Business Administration, A. B. Freeman School of Business"
+  }
+,
+  {
+    "title": "#351 Wei Jianjun & family",
+    "school": "Bachelor of Arts / Science, Hebei Province"
+  }
+,
+  {
+    "title": "#358 Ralph Dommermuth",
+    "school": "1"
+  }
+,
+  {
+    "title": "#358 Jeffery Hildebrand",
+    "school": "Bachelor of Arts / Science, The University of Texas at Austin; Master of Science, The University of Texas at Austin"
+  }
+,
+  {
+    "title": "#358 Henry Kravis",
+    "school": "Bachelor of Arts / Science, Claremont McKenna College; Master of Business Administration, Columbia Business School"
+  }
+,
+  {
+    "title": "#358 Sri Prakash Lohia",
+    "school": "Bachelor of Arts / Science, Delhi University"
+  }
+,
+  {
+    "title": "#358 Carrie Perrodo & family",
+    "school": "3"
+  }
+,
+  {
+    "title": "#358 Odd Reitan",
+    "school": "2"
+  }
+,
+  {
+    "title": "#358 Stewart and Lynda Resnick",
+    "school": "Bachelor of Arts / Science, University of California, Los Angeles; Doctor of Jurisprudence, University of California, Los Angeles"
+  }
+,
+  {
+    "title": "#358 Joseph Tsai",
+    "school": "Bachelor of Arts / Science, Yale University; Doctor of Jurisprudence, Yale University"
+  }
+,
+  {
+    "title": "#358 Wang Wei",
+    "school": "China"
+  }
+,
+  {
+    "title": "#358 Wee Cho Yaw",
+    "school": "5"
+  }
+,
+  {
+    "title": "#358 M.A. Yusuff Ali",
+    "school": "3"
+  }
+,
+  {
+    "title": "#369 Americo Amorim",
+    "school": "3"
+  }
+,
+  {
+    "title": "#369 John Doerr",
+    "school": "Bachelor of Arts / Science, Rice University; Master of Business Administration, Harvard University; Master of Science, Rice University"
+  }
+,
+  {
+    "title": "#369 Milane Frantz",
+    "school": "Married"
+  }
+,
+  {
+    "title": "#369 Gong Hongjia & family",
+    "school": "Bachelor of Arts / Science, Huazhong University of Science and Technology"
+  }
+,
+  {
+    "title": "#369 Liu Yonghao & family",
+    "school": "2"
+  }
+,
+  {
+    "title": "#369 George Roberts",
+    "school": "Bachelor of Arts / Science, Claremont McKenna College; Doctor of Jurisprudence, UC Hastings"
+  }
+,
+  {
+    "title": "#369 Mark Scheinberg",
+    "school": "Drop Out, Fanshawe College"
+  }
+,
+  {
+    "title": "#369 Reinhold Schmieding",
+    "school": "Bachelor of Arts / Science, Michigan State University"
+  }
+,
+  {
+    "title": "#369 Randa Williams",
+    "school": "Bachelor of Arts / Science, Rice University; Doctor of Jurisprudence, University of Houston"
+  }
+,
+  {
+    "title": "#380 Jin Sook & Do Won Chang",
+    "school": "Diploma, High School"
+  }
+,
+  {
+    "title": "#380 James Dyson",
+    "school": "3"
+  }
+,
+  {
+    "title": "#380 Han Chang-Woo & family",
+    "school": "6"
+  }
+,
+  {
+    "title": "#380 Bertil Hult",
+    "school": "4"
+  }
+,
+  {
+    "title": "#380 James Jannard",
+    "school": "Drop Out, University of Southern California"
+  }
+,
+  {
+    "title": "#380 Vikram Lal",
+    "school": "3"
+  }
+,
+  {
+    "title": "#380 Nancy Walton Laurie",
+    "school": "Bachelor of Arts / Science, University of Memphis"
+  }
+,
+  {
+    "title": "#380 Iskander Makhmudov",
+    "school": "Bachelor of Arts / Science, Tashkent State University"
+  }
+,
+  {
+    "title": "#380 Terrence Pegula",
+    "school": "Bachelor of Science in Engineering, Pennsylvania State University"
+  }
+,
+  {
+    "title": "#380 Jerry Speyer",
+    "school": "Bachelor of Arts / Science, Columbia University; Master of Business Administration, Columbia Business School"
+  }
+,
+  {
+    "title": "#380 Leonard Stern",
+    "school": "Bachelor of Arts / Science, New York University; Master of Business Administration, Leonard N. Stern School of Business"
+  }
+,
+  {
+    "title": "#380 Lucio Tan & family",
+    "school": "Bachelor of Arts / Science, Far Eastern University"
+  }
+,
+  {
+    "title": "#392 Shari Arison",
+    "school": "Drop Out, Miami Dade College"
+  }
+,
+  {
+    "title": "#392 Leonid Fedun",
+    "school": "Master of Science, Military Academy F.E.Dzerzhinsky"
+  }
+,
+  {
+    "title": "#392 Frits Goldschmeding",
+    "school": "Doctorate, Free University of Amsterdam"
+  }
+,
+  {
+    "title": "#392 Martha Ingram & family",
+    "school": "Bachelor of Arts / Science, Vassar College"
+  }
+,
+  {
+    "title": "#392 Edwin Leong",
+    "school": "1"
+  }
+,
+  {
+    "title": "#392 John Sall",
+    "school": "Bachelor of Arts / Science, Beloit College; Master of Business Administration, Northern Illinois University"
+  }
+,
+  {
+    "title": "#392 Jeffrey Skoll",
+    "school": "Bachelor of Arts / Science, University of Toronto; Master of Business Administration, Stanford Graduate School of Business"
+  }
+,
+  {
+    "title": "#392 Sheldon Solow",
+    "school": "Drop Out, New York University"
+  }
+,
+  {
+    "title": "#403 Denise Coates",
+    "school": "5"
+  }
+,
+  {
+    "title": "#403 Michael Herz",
+    "school": "Married"
+  }
+,
+  {
+    "title": "#403 Randal Kirk",
+    "school": "Bachelor of Arts / Science, Radford; Doctor of Jurisprudence, University of Virginia"
+  }
+,
+  {
+    "title": "#403 Niels Peter Louis-Hansen",
+    "school": "1"
+  }
+,
+  {
+    "title": "#403 Fredrik Lundberg",
+    "school": "Bachelor of Arts / Science, Stockholm School of Economics"
+  }
+,
+  {
+    "title": "#403 John Morris",
+    "school": "Bachelor of Arts / Science, Drury University"
+  }
+,
+  {
+    "title": "#403 H. Ross Perot, Sr.",
+    "school": "Bachelor of Arts / Science, United States Naval Academy"
+  }
+,
+  {
+    "title": "#403 Michael Pieper",
+    "school": "Master of Business Administration, St Gallen University"
+  }
+,
+  {
+    "title": "#403 Karen Pritzker",
+    "school": "Bachelor of Arts / Science, Northwestern University"
+  }
+,
+  {
+    "title": "#403 Viktor Rashnikov",
+    "school": "Bachelor of Science in Engineering, Magnitogorsk Mining and Metallurgical Institute"
+  }
+,
+  {
+    "title": "#403 Edward Roski, Jr.",
+    "school": "Bachelor of Arts / Science, University of Southern California"
+  }
+,
+  {
+    "title": "#403 Walter Scott, Jr. & family",
+    "school": "Bachelor of Arts / Science, Colorado State University"
+  }
+,
+  {
+    "title": "#403 Zhang Jindong",
+    "school": "Bachelor of Arts / Science, Nanjing Normal University"
+  }
+,
+  {
+    "title": "#421 Vanich Chaiyawan",
+    "school": "8"
+  }
+,
+  {
+    "title": "#421 Juan Carlos Escotet",
+    "school": "Master, University of Miami"
+  }
+,
+  {
+    "title": "#421 Phillip Frost",
+    "school": "Bachelor of Arts / Science, University of Pennsylvania; Medical Doctor, Yeshiva U Albert Einstein College of Medicine"
+  }
+,
+  {
+    "title": "#421 Hui Wing Mau",
+    "school": "Master of Business Administration, University of South Australia"
+  }
+,
+  {
+    "title": "#421 Jeremy Jacobs, Sr.",
+    "school": "Bachelor of Arts / Science, SUNY Buffalo"
+  }
+,
+  {
+    "title": "#421 Nathan Kirsh",
+    "school": "Bachelor of Arts / Science, University of Witwatersrand"
+  }
+,
+  {
+    "title": "#421 Kwon Hyuk-Bin",
+    "school": "Bachelor of Arts / Science, Sogang University"
+  }
+,
+  {
+    "title": "#421 Magdalena Martullo-Blocher",
+    "school": "3"
+  }
+,
+  {
+    "title": "#421 Idan Ofer",
+    "school": "5"
+  }
+,
+  {
+    "title": "#421 Horst Paulmann & family",
+    "school": "3"
+  }
+,
+  {
+    "title": "#421 Nassef Sawiris",
+    "school": "Bachelor of Arts / Science, University of Chicago"
+  }
+,
+  {
+    "title": "#421 George Ty & family",
+    "school": "5"
+  }
+,
+  {
+    "title": "#435 Alexander Abramov",
+    "school": "Bachelor of Arts / Science, Moscow Institute of Physics and Technology"
+  }
+,
+  {
+    "title": "#435 Martin & Olivier Bouygues",
+    "school": "France"
+  }
+,
+  {
+    "title": "#435 Subhash Chandra",
+    "school": "3"
+  }
+,
+  {
+    "title": "#435 Archie Aldis Emmerson",
+    "school": "Diploma, High School"
+  }
+,
+  {
+    "title": "#435 Andrei Guriev",
+    "school": "Bachelor of Arts / Science, State Central Institute of Physical Culture"
+  }
+,
+  {
+    "title": "#435 Elizabeth Holmes",
+    "school": "Drop Out, Stanford University"
+  }
+,
+  {
+    "title": "#435 Masatoshi Ito",
+    "school": "3"
+  }
+,
+  {
+    "title": "#435 Anthony Pratt",
+    "school": "Bachelor of Arts / Economics, Monash University"
+  }
+,
+  {
+    "title": "#435 Steven Rales",
+    "school": "Bachelor of Arts / Science, DePauw University; Law Degree, American University"
+  }
+,
+  {
+    "title": "#435 Ira Rennert",
+    "school": "Bachelor of Arts / Science, Brooklyn College; Master of Business Administration, Leonard N. Stern School of Business"
+  }
+,
+  {
+    "title": "#435 Julian Robertson, Jr.",
+    "school": "Bachelor of Arts / Science, University of North Carolina"
+  }
+,
+  {
+    "title": "#435 Harry Stine",
+    "school": "4"
+  }
+,
+  {
+    "title": "#435 Ronda Stryker",
+    "school": "Bachelor of Arts / Science, University of Northern Colorado; Master of Arts, Western Michigan University"
+  }
+,
+  {
+    "title": "#435 Frank Wang",
+    "school": "Bachelor of Arts / Science, Hong Kong University of Science and Technology; Master of Science, Hong Kong University of Science and Technology"
+  }
+,
+  {
+    "title": "#453 Gautam Adani",
+    "school": "2"
+  }
+,
+  {
+    "title": "#453 Michael Ashley",
+    "school": "Divorced"
+  }
+,
+  {
+    "title": "#453 Benu Gopal Bangur",
+    "school": "Bachelor of Arts / Science, Calcutta University"
+  }
+,
+  {
+    "title": "#453 Peter Buck",
+    "school": "Bachelor of Arts / Science, Bowdoin College; Doctorate, Columbia University; Master of Arts, Columbia University"
+  }
+,
+  {
+    "title": "#453 Rick Caruso",
+    "school": "Bachelor of Arts / Science, University of Southern California; Doctor of Jurisprudence, Pepperdine University"
+  }
+,
+  {
+    "title": "#453 Dan Friedkin",
+    "school": "4"
+  }
+,
+  {
+    "title": "#453 Antti Herlin",
+    "school": "4"
+  }
+,
+  {
+    "title": "#453 Kieu Hoang",
+    "school": "United States"
+  }
+,
+  {
+    "title": "#453 Savitri Jindal & family",
+    "school": "9"
+  }
+,
+  {
+    "title": "#453 Ronald Lauder",
+    "school": "Bachelor of Arts / Science, University of Pennsylvania Wharton School"
+  }
+,
+  {
+    "title": "#453 Liang Wengen",
+    "school": "Bachelor of Arts / Science, Central South University"
+  }
+,
+  {
+    "title": "#453 Masahiro Miki",
+    "school": "Bachelor of Arts / Science, Toho Gakuen tanki University"
+  }
+,
+  {
+    "title": "#453 Igor Olenicoff",
+    "school": "Bachelor of Arts / Science, University of Southern California; Master of Science, University of Southern California"
+  }
+,
+  {
+    "title": "#453 James Packer",
+    "school": "3"
+  }
+,
+  {
+    "title": "#453 Pan Zhengmin & family",
+    "school": "Jiangsu Province Wujin Teacher School"
+  }
+,
+  {
+    "title": "#453 Pankaj Patel",
+    "school": "Bachelor of Arts / Science, Gujarat University; Master of Science, Gujarat University"
+  }
+,
+  {
+    "title": "#453 Isaac Perlmutter",
+    "school": "Married"
+  }
+,
+  {
+    "title": "#453 Robert Rich, Jr.",
+    "school": "Bachelor of Arts / Science, Williams College; Master of Business Administration, Simon School of Business"
+  }
+,
+  {
+    "title": "#453 Haim Saban",
+    "school": "Diploma, High School"
+  }
+,
+  {
+    "title": "#453 Steven Spielberg",
+    "school": "Bachelor of Arts / Science, California State Long Beach"
+  }
+,
+  {
+    "title": "#453 Keiichiro Takahara & family",
+    "school": "3"
+  }
+,
+  {
+    "title": "#453 Steven Udvar-Hazy",
+    "school": "Bachelor of Arts / Science, University of California, Los Angeles"
+  }
+,
+  {
+    "title": "#453 Wang Wenxue",
+    "school": "Married"
+  }
+,
+  {
+    "title": "#453 Zhang Shiping & family",
+    "school": "Anhui College of Finance and Trading"
+  }
+,
+  {
+    "title": "#477 Prince Sultan bin Mohammed bin Saud Al Kabeer",
+    "school": "Bachelor of Arts / Science, King Saud University"
+  }
+,
+  {
+    "title": "#477 Isak Andic & family",
+    "school": "3"
+  }
+,
+  {
+    "title": "#477 Neil Bluhm",
+    "school": "Bachelor of Arts / Science, University of Illinois, Urbana-Champaign; Doctor of Jurisprudence, Northwestern University"
+  }
+,
+  {
+    "title": "#477 John Catsimatidis",
+    "school": "Drop Out, New York University"
+  }
+,
+  {
+    "title": "#477 Abilio dos Santos Diniz",
+    "school": "Bachelor of Arts / Science, Fundacao Getulio Vargas"
+  }
+,
+  {
+    "title": "#477 Pansy Ho",
+    "school": "Bachelor of Arts / Science, University of Santa Clara"
+  }
+,
+  {
+    "title": "#477 Elisabeth Mohn & family",
+    "school": "3"
+  }
+,
+  {
+    "title": "#477 Qiu Guanghe & family",
+    "school": "2"
+  }
+,
+  {
+    "title": "#477 Mitchell Rales",
+    "school": "Bachelor of Arts / Science, Miami University of Ohio"
+  }
+,
+  {
+    "title": "#477 Paolo & Gianfelice Mario Rocca",
+    "school": "Master of Business Administration, Harvard University"
+  }
+,
+  {
+    "title": "#477 Lynn Schusterman",
+    "school": "Drop Out, University of Miami"
+  }
+,
+  {
+    "title": "#477 Friede Springer",
+    "school": "Widowed"
+  }
+,
+  {
+    "title": "#477 Sun Piaoyang",
+    "school": "Bachelor of Arts / Science, China Pharmaceutical University; Doctorate, Nanjing University"
+  }
+,
+  {
+    "title": "#477 Russ Weiner",
+    "school": "Single"
+  }
+,
+  {
+    "title": "#495 Marc Benioff",
+    "school": "Bachelor of Arts / Science, University of Southern California"
+  }
+,
+  {
+    "title": "#495 Nathan Blecharczyk",
+    "school": "Bachelor of Arts / Science, Harvard University"
+  }
+,
+  {
+    "title": "#495 Bubba Cathy",
+    "school": "Bachelor of Arts / Science, Samford University"
+  }
+,
+  {
+    "title": "#495 Dan Cathy",
+    "school": "Bachelor of Arts / Science, Georgia Southern University"
+  }
+,
+  {
+    "title": "#495 David Cheriton",
+    "school": "Doctorate, University of Waterloo; Bachelor of Arts / Science, University of British Columbia; Master of Science, University of Waterloo"
+  }
+,
+  {
+    "title": "#495 Brian Chesky",
+    "school": "Bachelor of Arts / Science, Rhode Island School of Design"
+  }
+,
+  {
+    "title": "#495 Edward DeBartolo, Jr.",
+    "school": "Bachelor of Arts / Science, Notre Dame University"
+  }
+,
+  {
+    "title": "#495 John Gandel",
+    "school": "Doctorate, Monash University"
+  }
+,
+  {
+    "title": "#495 Joe Gebbia",
+    "school": "Bachelor of Arts / Science, Rhode Island School of Design"
+  }
+,
+  {
+    "title": "#495 Tom Gores",
+    "school": "Bachelor of Arts / Science, Michigan State University"
+  }
+,
+  {
+    "title": "#495 Jeff Greene",
+    "school": "Bachelor of Arts / Science, Johns Hopkins University; Master of Business Administration, Harvard University"
+  }
+,
+  {
+    "title": "#495 Jiang Bin",
+    "school": "Bachelor of Arts / Science, Beijing University of Aeronautics and Astronautics; Master of Business Administration, Tsinghua University"
+  }
+,
+  {
+    "title": "#495 H. Fisk Johnson",
+    "school": "Bachelor of Arts / Science, Cornell University; Doctorate, Cornell University; Master of Science, Cornell University; Master of Business Administration, Samuel Curtis Johnson Graduate School of Management"
+  }
+,
+  {
+    "title": "#495 Imogene Powers Johnson",
+    "school": "Bachelor of Arts / Science, Cornell University"
+  }
+,
+  {
+    "title": "#495 S. Curtis Johnson",
+    "school": "Bachelor of Arts / Science, Cornell University; Master of Business Administration, Kellogg School of Management"
+  }
+,
+  {
+    "title": "#495 Helen Johnson-Leipold",
+    "school": "Bachelor of Arts / Science, Cornell University"
+  }
+,
+  {
+    "title": "#495 Winnie Johnson-Marquart",
+    "school": "Bachelor of Arts / Science, Cornell University"
+  }
+,
+  {
+    "title": "#495 Erich Kellerhals",
+    "school": "1"
+  }
+,
+  {
+    "title": "#495 Ma Jianrong & family",
+    "school": "Married"
+  }
+,
+  {
+    "title": "#495 Bernard Marcus",
+    "school": "Bachelor of Arts / Science, Rutgers University"
+  }
+,
+  {
+    "title": "#495 Clayton Mathile",
+    "school": "Bachelor of Arts / Science, Ohio Northern University"
+  }
+,
+  {
+    "title": "#495 Robert McNair",
+    "school": "Bachelor of Arts / Science, University of South Carolina"
+  }
+,
+  {
+    "title": "#495 Alain Merieux & family",
+    "school": "3"
+  }
+,
+  {
+    "title": "#495 Jorge Perez",
+    "school": "Bachelor of Arts / Science, CW Post College; Master of Science, University of Michigan"
+  }
+,
+  {
+    "title": "#495 Qi Shi & family",
+    "school": "EMBA, Fudan University; Bachelor of Arts / Science, Shanghai Jiaotong University"
+  }
+,
+  {
+    "title": "#495 Teddy Sagi",
+    "school": "3"
+  }
+,
+  {
+    "title": "#495 Joan Tisch",
+    "school": "Bachelor of Arts / Science, University of Michigan"
+  }
+,
+  {
+    "title": "#495 Martin Viessmann & family",
+    "school": "Diploma, University of Erlangen"
+  }
+,
+  {
+    "title": "#495 Andreas von Bechtolsheim & family",
+    "school": "Master of Science, Carnegie Mellon University"
+  }
+,
+  {
+    "title": "#495 Zhang Guiping & family",
+    "school": "Bachelor of Arts / Science, South East University"
+  }
+,
+  {
+    "title": "#495 Zhu Gongshan",
+    "school": "2"
+  }
+,
+  {
+    "title": "#527 Leon G. Cooperman",
+    "school": "Bachelor of Arts / Science, Hunter College; Master of Business Administration, Columbia Business School"
+  }
+,
+  {
+    "title": "#527 Mark Cuban",
+    "school": "Bachelor of Arts / Science, Indiana University"
+  }
+,
+  {
+    "title": "#527 Bernard Ecclestone & family",
+    "school": "2"
+  }
+,
+  {
+    "title": "#527 Zarakh Iliev",
+    "school": "2"
+  }
+,
+  {
+    "title": "#527 Daryl Katz",
+    "school": "Bachelor of Arts / Science, University of Alberta; Doctor of Jurisprudence, University of Alberta"
+  }
+,
+  {
+    "title": "#527 Li Hejun",
+    "school": "1"
+  }
+,
+  {
+    "title": "#527 God Nisanov",
+    "school": "Diploma, Baku Institute of Law"
+  }
+,
+  {
+    "title": "#527 Kevin Plank",
+    "school": "Master of Business Administration, Robert H. Smith School of Business; Bachelor of Arts / Science, University of Maryland"
+  }
+,
+  {
+    "title": "#527 Anthony Pritzker",
+    "school": "Bachelor of Arts / Science, Dartmouth College; Master of Business Administration, Booth School of Business"
+  }
+,
+  {
+    "title": "#527 Jay Robert (J.B.) Pritzker",
+    "school": "Bachelor of Arts / Science, Duke University; Doctor of Jurisprudence, Northwestern University"
+  }
+,
+  {
+    "title": "#527 Renzo Rosso",
+    "school": "Drop Out, Universita di Padua"
+  }
+,
+  {
+    "title": "#527 Hussain Sajwani",
+    "school": "Bachelor of Arts / Science, University of Washington"
+  }
+,
+  {
+    "title": "#527 Thomas Schmidheiny",
+    "school": "Bachelor of Arts / Science, Zurich Polytechnic; Doctorate, Tufts University"
+  }
+,
+  {
+    "title": "#527 Andreas Struengmann",
+    "school": "Medical Doctor, University at Buffalo"
+  }
+,
+  {
+    "title": "#527 Thomas Struengmann",
+    "school": "Master of Business Administration, University of Augsburg; Master of Business Administration, University of Augsburg"
+  }
+,
+  {
+    "title": "#527 Wu Yajun & family",
+    "school": "Northwestern Polytechnical University"
+  }
+,
+  {
+    "title": "#527 Yang Kai",
+    "school": "China"
+  }
+,
+  {
+    "title": "#549 Abdulla Al Futtaim",
+    "school": "Married"
+  }
+,
+  {
+    "title": "#549 Kapil & Rahul Bhatia",
+    "school": "Bachelor of Science in Engineering, University of Waterloo"
+  }
+,
+  {
+    "title": "#549 Pollyanna Chu",
+    "school": "Bachelor of Arts / Science, Golden Gate University"
+  }
+,
+  {
+    "title": "#549 Ken Fisher",
+    "school": "Bachelor of Arts / Science, Humboldt State University"
+  }
+,
+  {
+    "title": "#549 Jaime Gilinski Bacal",
+    "school": "Master of Business Administration, Harvard Business School"
+  }
+,
+  {
+    "title": "#549 Andreas Halvorsen",
+    "school": "Master of Business Administration, Stanford Graduate School of Business; Bachelor of Arts / Science, Williams College"
+  }
+,
+  {
+    "title": "#549 Indu Jain",
+    "school": "2"
+  }
+,
+  {
+    "title": "#549 Samvel Karapetyan",
+    "school": "Bachelor of Arts / Science, Yerevan Polytechnic Institute"
+  }
+,
+  {
+    "title": "#549 Barry Lam",
+    "school": "Bachelor of Arts / Science, National Taiwan University"
+  }
+,
+  {
+    "title": "#549 Lars Larsen",
+    "school": "2"
+  }
+,
+  {
+    "title": "#549 John Overdeck",
+    "school": "Bachelor of Arts / Science, Stanford University"
+  }
+,
+  {
+    "title": "#549 Issad Rebrab & family",
+    "school": "5"
+  }
+,
+  {
+    "title": "#549 J. Christopher Reyes",
+    "school": "Bachelor of Arts / Science, University of Maryland"
+  }
+]

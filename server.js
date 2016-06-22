@@ -6,8 +6,8 @@ app.get('/', function (req, res) {
   res.sendFile(__dirname + '/visualization.html');
 });
 
-app.get('/results', function(req, res) { 
-	res.sendFile(__dirname + '/results.csv')
+app.get('/FormattedResults', function(req, res) { 
+	res.sendFile(__dirname + '/FormattedResults.csv')
 })
 
 app.listen(3000, function () {

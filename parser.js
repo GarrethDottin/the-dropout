@@ -1,10 +1,13 @@
-var jsonFile = require('jsonfile');
-var results = 'results2.json';
-var finalResults = 'modifiedResults.json';
+	var jsonFile = require('jsonfile');
+	var results = 'results.json';
+	var finalResults = 'educationList.json';
 
-jsonFile.readFile(results, function(err, text) { 
-	var modifiedResults =text.filter(function(obj) { return isNaN(obj.school)});
-	jsonFile.writeFile(finalResults, modifiedResults, {spaces: 2}, function(err) {
-		console.log(err)
-	});
-});
+	// Removes people that dont have a school associated 
+	function cleanDataSet() { 
+		jsonFile.readFile(results, function(err, text) { 
+			var modifiedResults = text.filter(function(obj) { return isNaN(obj.school)});
+			jsonFile.writeFile(finalResults, modifiedResults, {spaces: 2}, function(err) {
+				console.log(err)
+			});
+		});
+	}
